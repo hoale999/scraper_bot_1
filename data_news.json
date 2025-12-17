@@ -48,7 +48,9 @@
         "e64b389c-20ef-49e8-991f-108f99a6d2e2",
         "71b3899a-6e56-4bf7-b266-dba8e73f52c2",
         "958250ce-71cf-44fc-bd8c-fd843d0d43fe",
-        "a5ca3e96-e680-48a9-afb2-b2bbb6688c2b"
+        "a5ca3e96-e680-48a9-afb2-b2bbb6688c2b",
+        "22be4bb2-5a39-44e4-a2b0-a338d2f3ffb2",
+        "98072962-1caf-430b-85ab-2b6ac37849f7"
     ],
     "CTG": [
         "86991",
@@ -75,7 +77,9 @@
         "https://investor.vietinbank.vn/Handlers/ViewReport.ashx?ReportID=1227",
         "https://investor.vietinbank.vn/Handlers/ViewReport.ashx?ReportID=1225",
         "86987",
-        "86798"
+        "86798",
+        "86993",
+        "86945"
     ],
     "BID": [
         "https://bidv.com.vn/wps/wcm/connect/6081859e-0373-460b-93f3-96d85fdf74d1/20251127+-+BID+-+CBTT+QD10323+ve+viec+thay+doi+dia+diem+dat+tru+so+Chi+nhanh+Ha+Long.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6081859e-0373-460b-93f3-96d85fdf74d1-pH4EyiZ",
@@ -330,7 +334,15 @@
         "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/sukien/lich-su-kien/2025/cbtt+bao+cao+tai+chinh+rieng+va+hop+nhat+giua+nien+do+quy+i+nam+2025",
         "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/sukien/lich-su-kien/2025/dai+hoi+thuong+nien+2025",
         "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/sukien/lich-su-kien/2025/bctc+kiem+toan+rl+va+hn+nam+2024",
-        "https://bidv.com.vn/wps/wcm/connect/25817868-9bfa-4982-aaf8-cea601cf94f7/20251203+-+BID+-+CBTT+NQ1309+thong+qua+viec+dieu+chinh+han+muc+doi+tac+doi+voi+Ngan+Hang+Lien+doanh+Lao+Viet.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-25817868-9bfa-4982-aaf8-cea601cf94f7-pHzOhCa"
+        "https://bidv.com.vn/wps/wcm/connect/25817868-9bfa-4982-aaf8-cea601cf94f7/20251203+-+BID+-+CBTT+NQ1309+thong+qua+viec+dieu+chinh+han+muc+doi+tac+doi+voi+Ngan+Hang+Lien+doanh+Lao+Viet.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-25817868-9bfa-4982-aaf8-cea601cf94f7-pHzOhCa",
+        "https://bidv.com.vn/wps/wcm/connect/399b6e95-786c-4fb6-ba73-5e56bd705112/20251215+-+BID+-+CBTT+QD1347+phe+duyet+phuong+an%2C+noi+dung+hop+dong+cho+BIC+Bac+Bo+thue+mot+phan+dien+tich+chua+su+dung.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-399b6e95-786c-4fb6-ba73-5e56bd705112-pIwTJdP",
+        "https://bidv.com.vn/wps/wcm/connect/1449f673-db7b-46cd-879b-6da75929ef1c/20251212+-+BID+-+CBTT+NQ1340+Thong+qua+Ho+so+dang+ky+chao+ban+trai+phieu+tang+von+BIDV+ra+cong+chung.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-1449f673-db7b-46cd-879b-6da75929ef1c-pIhme2W",
+        "https://bidv.com.vn/wps/wcm/connect/d7d498ac-c019-4901-9e3e-040b3b258f28/20251212+-+BID+-+CBTT+NQ1338+sua+doi%2C+bo+sung+mot+so+noi+dung+cua+Nghi+quyet+so+1266+ng%C3%A0y+17.11.2025+ve+phe+duyet+phuong+an+phat+hanh%2C+phuong+an+su+dung+va+tra+no+von+thu+duoc.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-d7d498ac-c019-4901-9e3e-040b3b258f28-pIhjDaE",
+        "https://bidv.com.vn/wps/wcm/connect/891e8d81-69b7-441b-941e-dcf99b1efecc/20251127+-+BID+-+CBTT+NQ1293+Thong+qua+Ho+so+dang+ky+chao+ban+trai+phieu+tang+von+BIDV+ra+cong+chung.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-891e8d81-69b7-441b-941e-dcf99b1efecc-pH4NXXV",
+        "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/thong-tin-co-dong/congbothongtin/2025/cbtt+giao+dich+voi+ben+co+lien+quan+bic+bac+bo",
+        "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/thong-tin-co-dong/congbothongtin/2025/cbtt+nghi+quyet+thong+qua+ho+so+dang+ky+chao+ban+trai+phieu+tang+von+bidv+ra+cong+chung",
+        "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/thong-tin-co-dong/congbothongtin/2025/cbtt+nghi+quyet+sua+doi%2C+bo+sung+mot+so+noi+dung+cua+nghi+quyet+so+1266",
+        "https://bidv.com.vn/bidv/quan-he-nha-dau-tu/sukien/lich-su-kien/2024/cbtt+bctc+rl+va+hn+giua+nien+do+q4+2024"
     ],
     "TCB": [
         "https://techcombank.com/content/dam/techcombank/public-site/documents/0739-nq-hdqt-ve-mua-qua-tang-upoint-do-omc-cung-cap-nlq.pdf",
@@ -465,7 +477,11 @@
         "https://techcombank.com/content/dam/techcombank/public-site/documents/nq-0093-hdqt-ve-ky-thoa-thuan-van-hanh-merchant-portal.pdf",
         "https://techcombank.com/content/dam/techcombank/public-site/documents/nq-0086-hdqt-cap-tin-dung-cho-cong-ty-mag-and-maa-la-nlq-cua-nguoi-noi-bo.pdf",
         "https://techcombank.com/content/dam/techcombank/public-site/documents/00542025-nq-hdqt-tcb.pdf",
-        "https://techcombank.com/content/dam/techcombank/public-site/documents/0743-nq-hdqt-ve-tcbs-cung-cap-dich-vu-phtp-tcb-2025-lan-25-2000-ty.pdf"
+        "https://techcombank.com/content/dam/techcombank/public-site/documents/0743-nq-hdqt-ve-tcbs-cung-cap-dich-vu-phtp-tcb-2025-lan-25-2000-ty.pdf",
+        "https://techcombank.com/content/dam/techcombank/public-site/documents/0755nq-hdqt-ve-cap-han-muc-tin-dung-cho-tcgins.pdf",
+        "https://techcombank.com/content/dam/techcombank/public-site/documents/nqph-co-dau-dot-25.pdf",
+        "https://techcombank.com/content/dam/techcombank/public-site/documents/0744-nq-hdqt-the-tin-dung-mr-michael-hung-nguyen-cfo-masan.pdf",
+        "https://techcombank.com/content/dam/techcombank/public-site/documents/00042025-nq-hdqt-ve-cap-han-muc-tin-dung-cho-omd.pdf"
     ],
     "MCH": [
         "https://masanconsumer.com/wp-content/uploads/2025/10/MCH_3Q2025_Earnings_Community-Day-Presentation-VN.pdf",
@@ -585,7 +601,34 @@
         "https://masanconsumer.com/wp-content/uploads/2025/02/MSC_Mau-07-THQ-2025-AGM.pdf",
         "https://masanconsumer.com/wp-content/uploads/2025/02/MSC_Mau-07-THQ-2025-AGM.pdf",
         "https://masanconsumer.com/wp-content/uploads/2025/02/MCH_CBTT-thong-bao-NDDCC_24Jan2025-1.pdf",
-        "https://masanconsumer.com/wp-content/uploads/2025/02/MCH_CBTT-thong-bao-NDDCC_24Jan2025-1.pdf"
+        "https://masanconsumer.com/wp-content/uploads/2025/02/MCH_CBTT-thong-bao-NDDCC_24Jan2025-1.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-CBTT-NQ-HDQT-ve-su-dung-CP-quy-de-chia-cho-CDHH-va-phat-hanh-CP-tu-NVCSH-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-CBTT-NQ-HDQT-ve-su-dung-CP-quy-de-chia-cho-CDHH-va-phat-hanh-CP-tu-NVCSH-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-CBTT-NQ-HDQT-ve-su-dung-CP-quy-de-chia-cho-CDHH-va-phat-hanh-CP-tu-NVCSH-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-CBTT-nhan-duoc-QD-huy-UPCOM-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-CBTT-nhan-duoc-QD-huy-UPCOM-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-CBTT-nhan-duoc-QD-huy-UPCOM-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-Phan-1.8-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-Phan-1.8-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-Phan-1.8-signed.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-1-va-2-Phan-2.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-1-va-2-Phan-2.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-1-va-2-Phan-2.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-3.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-3.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-3.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-4.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-4.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-4.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-5.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-5.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-5.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-6.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-6.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-6.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-7.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-7.8.pdf",
+        "https://masanconsumer.com/wp-content/uploads/2025/12/20251211-MCH-BCB-NY-va-cac-PL-dinh-kem-PL-3-Phan-7.8.pdf"
     ],
     "VPB": [
         "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/cong-bo-thong-tin-thong-tin-khac/2025/t11/nghi-quyet-hdqt-ve-viec-vay-hop-von-giua-vpbank-va-gpbank.pdf",
@@ -637,7 +680,11 @@
         "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/nam-2025/q1/4-bctc-rieng-le-ban-tra-cuu.pdf",
         "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/tai-lieu-danh-cho-nha-dau-tu/tai-lieu-danh-cho-nha-dau-tu/bao-cao-ket-qua-phan-tich-hoat-dong/nam-2025/bao-cao-ket-qua-hoat-dong-quy-3-va-9-thang-nam-2025-v1.pdf",
         "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/tai-lieu-danh-cho-nha-dau-tu/tai-lieu-danh-cho-nha-dau-tu/bao-cao-ket-qua-phan-tich-hoat-dong/nam-2025/bao-cao-ket-qua-hoat-dong-quy-2-va-6-thang-nam-2025.pdf",
-        "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/cong-bo-thong-tin-thong-tin-khac/2025/t12/nqhdqt-ve-viec-vay-hop-von-giua-vpbank-va-gpbank.pdf"
+        "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/cong-bo-thong-tin-thong-tin-khac/2025/t12/nqhdqt-ve-viec-vay-hop-von-giua-vpbank-va-gpbank.pdf",
+        "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/cong-bo-thong-tin-thong-tin-khac/2025/t12/nqhdqt-phe-duyet-giao-dich-voi-smbc-cn-singapore.pdf",
+        "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/cong-bo-thong-tin-thong-tin-khac/2025/t12/nqhdqt-ve-viec-phat-hanh-trai-phieu-rieng-le-nam-2025-vpb12516-121025.pdf",
+        "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/cong-bo-thong-tin-thong-tin-khac/2025/t11/nqhdqt-ve-viec-phat-hanh-trai-phieu-rieng-le-nam-2025-vpb12515.pdf",
+        "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/tai-lieu-danh-cho-nha-dau-tu/tai-lieu-danh-cho-nha-dau-tu/bao-cao-ket-qua-phan-tich-hoat-dong/nam-2025/bao-cao-ket-qua-hoat-dong-kinh-doanh-quy-1-nam-2025.pdf"
     ],
     "VGI": [
         "https://www.viettelglobal.com.vnbien-ban-hop-dai-hoi-dong-co-dong-thuong-nien-nam-2025",
@@ -650,7 +697,9 @@
         "https://www.viettelglobal.com.vnbao-cao-tai-chinh-rieng-le-6-thang-dau-nam-2025-1",
         "https://www.viettelglobal.com.vnbao-cao-tai-chinh-hop-nhat-6-thang-dau-nam-2025",
         "https://www.viettelglobal.com.vn/tin-co-dong",
-        "https://www.viettelglobal.com.vn/dai-hoi-dong-co-dong"
+        "https://www.viettelglobal.com.vn/dai-hoi-dong-co-dong",
+        "https://www.viettelglobal.com.vndai-hoi-dong-co-dong",
+        "https://www.viettelglobal.com.vntin-co-dong"
     ],
     "HPG": [
         "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/08/20250826-hpg-bao-cao-ket-qua-giao-dich-co-phieu-hpg-cua-ong-chu-quang-viet-nclq-cdnb-ban-cbtt.pdf",
@@ -680,7 +729,9 @@
         "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/03/1-thong-bao-moi-hop.pdf",
         "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/03/2-noi-dung-va-chuong-trinh-hop.pdf",
         "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/03/3-giay-uy-quyen-1.pdf",
-        "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/11/20251111-hpg-cbtt-noi-dung-nq-hdqt-so-108.pdf"
+        "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/11/20251111-hpg-cbtt-noi-dung-nq-hdqt-so-108.pdf",
+        "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/11/20251029-hpg-cbtt-ket-qua-kinh-doanh-quy-3-2025.pdf",
+        "https://file.hoaphat.com.vn/hoaphat-com-vn/2025/04/4-tai-lieu-hop.pdf"
     ],
     "ACV": [
         "https://acv.vn/tin-tuc/bao-cao-tai-chinh/acv-bao-cao-tai-chinh-tong-hop-quy-ii-2025-bao-cao-tai-chinh-hop-nhat-quy-ii-2025-van-ban-giai-trinh-loi-nhuan-sau-thue",
@@ -693,7 +744,9 @@
         "https://acv.vn/tin-tuc/thong-bao-co-dong/don-xin-tu-nhiem-chuc-vu-thanh-vien-ban-kiem-soat",
         "https://acv.vn/tin-tuc/thong-bao-co-dong/acv-nghi-quyet-ve-viec-lay-y-kien-co-dong-bang-van-ban-va-thong-bao-ve-ngay-dang-ky-cuoi-cung-de-thuc-hien-quyen-lay-y-kien-co-dong-bang-van-ban",
         "https://acv.vn/tin-tuc/thong-bao-co-dong/thong-bao-cua-so-giao-dich-chung-khoan-ha-noi-ve-ngay-giao-dich-doi-voi-co-phieu-thay-doi-dang-ky-giao-dich-cua-tong-cong-ty-cang-hang-khong-viet-nam-ctcp",
-        "https://acv.vn/tin-tuc/bao-cao-tai-chinh/acv-bao-cao-tai-chinh-tong-hop-quy-iii-2025-bao-cao-tai-chinh-hop-nhat-quy-iii-2025-van-ban-giai-trinh-loi-nhuan-sau-thue"
+        "https://acv.vn/tin-tuc/bao-cao-tai-chinh/acv-bao-cao-tai-chinh-tong-hop-quy-iii-2025-bao-cao-tai-chinh-hop-nhat-quy-iii-2025-van-ban-giai-trinh-loi-nhuan-sau-thue",
+        "https://acv.vn/tin-tuc/bao-cao-tai-chinh/acv-bao-cao-tai-chinh-ban-nien-2025",
+        "https://acv.vn/tin-tuc/thong-bao-co-dong/cbtt-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-cang-hang-khong-quoc-te-long-thanh"
     ],
     "FPT": [
         "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/report/tabs/annual-report/years/2022/bctnfpt-2022.pdf",
@@ -970,7 +1023,9 @@
         "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/information-disclosures/year-report/2025/january/20250124---fpt---bao-cao-tinh-hinh-quan-tri-cong-ty-nam-2024.pdf",
         "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/information-disclosures/year-report/2025/january/20250124---fpt---tcbc-ket-qua-kinh-doanh-nam-2024.pdf",
         "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/information-disclosures/year-report/2025/january/20250124--fpt--thong-bao-giao-dich-co-phieu-cua-nnb-bui-quang-ngoc-ban-cbtt.pdf",
-        "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/general-meetings-of-shareholders/bao_cao_thuong_nien_fpt_2024.pdf"
+        "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/general-meetings-of-shareholders/bao_cao_thuong_nien_fpt_2024.pdf",
+        "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/general-meetings-of-shareholders/monthly-report/2024/bctn-fpt-2023-vn.pdf",
+        "https://fpt.com/-/media/project/fpt-corporation/fpt/ir/information-disclosures/year-report/2016/mar/file-4/tai-lieu-dhdcd-thuong-nien-fpt-2016(2).pdf"
     ],
     "GAS": [
         "https://www.pvgas.com.vn/quan-he-co-đong/bao-cao-tai-chinh-hop-nhat-quy-3-nam-2025",
@@ -982,7 +1037,11 @@
         "https://www.pvgas.com.vn/quan-he-co-đong/bao-cao-tai-chinh-q12025",
         "https://www.pvgas.com.vn/quan-he-co-đong/bao-cao-tai-chinh-kiem-toan-nam-2024-cong-ty-me",
         "https://www.pvgas.com.vn/quan-he-co-đong/bao-cao-tai-chinh-kiem-toan-nam-2024-hop-nhat",
-        "https://www.pvgas.com.vn/quan-he-co-đong/cong-bo-thong-tin-ve-viec-nhan-cac-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-ngay-04122025"
+        "https://www.pvgas.com.vn/quan-he-co-đong/cong-bo-thong-tin-ve-viec-nhan-cac-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-ngay-04122025",
+        "https://www.pvgas.com.vn/quan-he-co-đong/cong-bo-thong-tin-ve-viec-nhan-cac-giay-chung-nhan-dang-ky-hoat-dong-chi-nhanh-ngay-11122025",
+        "https://www.pvgas.com.vn/quan-he-co-đong/cong-bo-thong-tin-nghi-quyet-hdqt-so-95nq-kvn-ngay-02122025-ve-viec-thong-qua-cac-noi-dung-chinh-cua-thoa-thuan-sua-doi-agga-lo-12w",
+        "https://www.pvgas.com.vn/quan-he-co-đong/artmid/574/articleid/14121/bao-cao-tai-chinh-kiem-toan-nam-2024-hop-nhat",
+        "https://www.pvgas.com.vn/quan-he-co-đong/bao-cao-tai-chinh-nam-2024-cong-ty-me"
     ],
     "LPB": [
         "https://lpbank.com.vn/api/content-file/public/file/view/3457a383-bf5d-4e2b-b435-4671ebee4b5d",
@@ -1012,7 +1071,13 @@
         "https://lpbank.com.vn/api/content-file/public/file/view/74f3da8c-43bf-4185-90a4-b06e0c90ee04",
         "https://lpbank.com.vn/api/content-file/public/file/view/decc6aa2-ee96-429d-adc3-cfd3ec3cade4",
         "https://lpbank.com.vn/api/content-file/public/file/view/86bcf095-1b0f-4ff6-8722-f5f306b753fc",
-        "https://lpbank.com.vn/api/content-file/public/file/view/70fd831e-b95e-44e7-bb99-cf4e36863570"
+        "https://lpbank.com.vn/api/content-file/public/file/view/70fd831e-b95e-44e7-bb99-cf4e36863570",
+        "https://lpbank.com.vn/api/content-file/public/file/view/cf95e19f-cb37-40f8-9708-be0117bb3a8f",
+        "https://lpbank.com.vn/api/content-file/public/file/view/08a321b2-eb16-4987-b830-a76a0a277e78",
+        "https://lpbank.com.vn/api/content-file/public/file/view/366605f9-7bb9-47bd-8955-1ecbd7b4dae5",
+        "https://lpbank.com.vn/api/content-file/public/file/view/37146861-97a3-4087-84ae-ad1e45b76309",
+        "https://lpbank.com.vn/api/content-file/public/file/view/28591b01-1924-4f06-baf6-5b65a52e5e9b",
+        "https://lpbank.com.vn/api/content-file/public/file/view/671283ab-45d0-4b24-aeec-4ffbf3a4286c"
     ],
     "VNM": [
         "https://d8um25gjecm9v.cloudfront.net/cms/BCTC_DA_SOAT_XET_RIENG_VN_30_09_2025_c260a2d0e4.pdf",
@@ -1362,7 +1427,13 @@
         "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/TFCoFjkCsgJmFem9CgDi20250107163754/20250107HDBCBTTchaobantraiphieuracongchungDot1_1736242827363.pdf",
         "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/f6t6dMM8XirEEcLjsK0I20250103151319/20250103HDBCBTTQDNHNNVvbosungnoidunghoatdongvaoGPTLvaHDcuaHDBank_1735894305950.pdf",
         "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/hITqTjsEBS1KAY8DnTpv20250103160019/20250103HDBCBTTThongbaoHNXvengaygiaodichdautientraiphieuniemyet_1735894829237.pdf",
-        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/GnhN00bQFBLMLxcxri0g20251118170642/TVup_1763460436054.pdf"
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/GnhN00bQFBLMLxcxri0g20251118170642/TVup_1763460436054.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/m3dRkOgRFF7FjlM1bS1M20251030134753/TBLYK_1761807308528.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/xOjyMseRbAvRnBpMgkfh20251215101111/HOSETBNKCC_1765768385225.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/8htYC5xk4NkG7BfVcE4L20251211161100/20251211HDBCBTTNQHDQTvvmuabannogiuaHDBankvaVikkiBank_1765446814274.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/KUxIoHMjIy9RDcjFnHhT20251216090905/ThongbaoveviecmatsoCCTCPDautuBacHa_1765850981949.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/CijmDD4kcat55t2XUBtJ20251210135914/ThongbaoveviecmatsoCNguyenTienHai_1765349995055.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/f6t6dMM8XirEEcLjsK0I20250103151319/20250103HDBCBTTTBTGDThaydoidiadiemcacChinhanh_1735894287205.pdf"
     ],
     "ACB": [
         "11031",
@@ -1410,7 +1481,11 @@
         "10645",
         "10644",
         "10096",
-        "10924"
+        "10924",
+        "11032",
+        "11246",
+        "11245",
+        "10095"
     ],
     "MWG": [
         "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/4/0/f6/28/f628228ba431c35f253435099a6e07bf.pdf",
@@ -1436,7 +1511,11 @@
         "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/9/0/fb/96/fb96a215bd4a60bbc7c2462d350c032a.pdf",
         "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/9/0/29/1f/291fc1582a02eddc23548a4f9c81d3ed.pdf",
         "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/9/0/43/16/4316aaf680932ba04e51f4d093dcb8cc.pdf",
-        "https://mwg.vn/cong-bo-thong-tin/video-dai-hoi-dong-co-dong-thuong-nien-mwg-2025-3167"
+        "https://mwg.vn/cong-bo-thong-tin/video-dai-hoi-dong-co-dong-thuong-nien-mwg-2025-3167",
+        "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/5/3160/26/2e/262e7a64510520208ecab2d1f09a0cfa.pdf",
+        "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/12/0/81/9d/819d73d68727dcee28b2c562375a3404.pdf",
+        "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/12/0/43/31/4331aea8fd1b4f9f29e70ee83201678c.pdf",
+        "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/12/0/47/62/4762866779fd77be0b04caf0abf6800f.pdf"
     ],
     "MSN": [
         "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/617/6177a82b7a0f182f041d4f5df8797f84/7394abea05397b1678e29a75513d95e5.pdf",
@@ -1480,7 +1559,10 @@
         "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/0a9/0a9dfec268e9662f3a8634bf419ed49b/2395fd33ca68752fa4b4b02ea6f79a45.pdf",
         "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/cf9/cf987fdf9d2f384bf53c5cc9de2f0c4b/2f54911f44aece0d1366fd27188ae033.pdf",
         "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/c1c/c1cf7372a68ea17b07ff43eea374d55e/12e46bcfde947eedac4efab032315c72.pdf",
-        "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/e08/e08145077cb8a385bbd649c5ff16b163/7b593ae2e5ab3481c305ee3b9cc54d0f.pdf"
+        "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/e08/e08145077cb8a385bbd649c5ff16b163/7b593ae2e5ab3481c305ee3b9cc54d0f.pdf",
+        "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/03e/03efbb7a2c877c64df2962ad86ffd75a/e526c178314b408128194ef01d17d703.pdf",
+        "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/556/556c0873bbb9bc7b91b4f59059be6e44/009c70ca1c465b12018d684048422988.pdf",
+        "https://masangroup-cms-production.s3-ap-southeast-1.amazonaws.com/iblock/531/531b1f8f0ec05e0678352e3fee16d3e0/e9ad272858ff982358fdfc603d60a3dc.pdf"
     ],
     "GVR": [
         "https://vrg.vn/wp-content/uploads/2025/11/5.-To-trinh-sua-doi-Quy-che-BKS.pdf?x87506",
@@ -1532,7 +1614,11 @@
         "https://vrg.vn/wp-content/uploads/2025/07/20250729-GVR-CBTT-Lua-chon-don-vi-kiem-toan-BCTC-2025.pdf?x87506",
         "https://vrg.vn/wp-content/uploads/2025/07/20250710-GVR-CBTT-dia-chi-theo-ten-goi-don-vi-hanh-chinh-moi.pdf?x87506",
         "https://vrg.vn/wp-content/uploads/2025/07/20250708-GVR-Dieu-le-to-chuc-va-hoat-dong-1.pdf?x87506",
-        "https://vrg.vn/wp-content/uploads/2025/11/20251105-GVR-Bien-ban-hop-va-Nghi-quyet-DHDCD-bat-thuong-2025.pdf?x87506"
+        "https://vrg.vn/wp-content/uploads/2025/11/20251105-GVR-Bien-ban-hop-va-Nghi-quyet-DHDCD-bat-thuong-2025.pdf?x87506",
+        "https://vrg.vn/wp-content/uploads/2025/11/20251105-GVR-CBTT-Thay-doi-nhan-su-Thanh-vien-HDQT-KSV-PTGD-1.pdf?x87506",
+        "https://vrg.vn/wp-content/uploads/2025/10/1.-Thong-bao-moi-hop-DHDCD-bat-thuong-2025.pdf?x87506",
+        "https://vrg.vn/wp-content/uploads/2025/10/2.-Chuong-trinh-hop-DHDCD-bat-thuong-2025.pdf?x87506",
+        "https://vrg.vn/wp-content/uploads/2025/07/20250704-GVR-Quy-che-noi-bo-ve-quan-tri-cong-ty.pdf?x87506"
     ],
     "MBB": [
         "1138",
