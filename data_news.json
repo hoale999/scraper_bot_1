@@ -2248,7 +2248,9 @@
         "https://fpt.com/api/download?url=%2Fapi%2Fmedia%2F20261007_FPT_Nghi_quyet_HDQT_so_01_10_2026_vv_tang_von_sau_phat_hanh_CP_de_tang_von_tu_NVCSH_cbb031ee2e.pdf",
         "https://fpt.com/api/media/20261007_FPT_Nghi_quyet_HDQT_so_01_10_2026_vv_tang_von_sau_phat_hanh_CP_de_tang_von_tu_NVCSH_cbb031ee2e.pdf",
         "https://fpt.com/api/download?url=%2Fapi%2Fmedia%2F202610_FPT_Dieu_le_Cong_ty_cap_nhat_sau_phat_hanh_CP_9f7669c98d.pdf",
-        "https://fpt.com/api/media/202610_FPT_Dieu_le_Cong_ty_cap_nhat_sau_phat_hanh_CP_9f7669c98d.pdf"
+        "https://fpt.com/api/media/202610_FPT_Dieu_le_Cong_ty_cap_nhat_sau_phat_hanh_CP_9f7669c98d.pdf",
+        "https://fpt.com/api/download?url=%2Fapi%2Fmedia%2F20261021_FPT_Ket_qua_kinh_doanh_9_thang_2026_d2a3d1293e.pdf",
+        "https://fpt.com/api/media/20261021_FPT_Ket_qua_kinh_doanh_9_thang_2026_d2a3d1293e.pdf"
     ],
     "GAS": [
         "https://www.pvgas.com.vn/quan-he-co-đong/bao-cao-tai-chinh-hop-nhat-quy-3-nam-2025",
@@ -2719,7 +2721,12 @@
         "https://lpbank.com.vn/api/content-file/public/file/view/52a645b7-3038-4397-af25-2b79d51ced86",
         "https://lpbank.com.vn/api/content-file/public/file/view/9a5907bb-bce9-4873-a0ec-7d7f63767210",
         "https://lpbank.com.vn/api/content-file/public/file/view/dcc23351-9f9d-4e1d-9e99-aa031921db08",
-        "https://lpbank.com.vn/api/content-file/public/file/view/aae45dcd-b474-435e-9885-b1ebdb9734e0"
+        "https://lpbank.com.vn/api/content-file/public/file/view/aae45dcd-b474-435e-9885-b1ebdb9734e0",
+        "https://lpbank.com.vn/api/content-file/public/file/view/1145c561-9bee-4efe-a30a-501b6cce8987",
+        "https://lpbank.com.vn/api/content-file/public/file/view/ce06fd50-a399-40ab-81ce-0b2e222b1ba6",
+        "https://lpbank.com.vn/api/content-file/public/file/view/bedc505e-6853-44f6-8a89-7179da9a371f",
+        "https://lpbank.com.vn/api/content-file/public/file/view/c009589b-6c0d-4015-8600-f86102ad73f8",
+        "https://lpbank.com.vn/api/content-file/public/file/view/bb9c4a0e-37e4-419d-aca4-eaa6d3e6bcc1"
     ],
     "VNM": [
         "https://d8um25gjecm9v.cloudfront.net/cms/BCTC_DA_SOAT_XET_RIENG_VN_30_09_2025_c260a2d0e4.pdf",
@@ -3361,7 +3368,8 @@
         "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/42MsfqeNs9glPICafA0b20261014094354/20261014HDBCBTTTBTGDthaydoitengoiPGDMyDinh1_1791945902337.pdf",
         "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/TGsBY8OmO5i4qFQgJijQ20261015140744/20261015HDBCBTTThaydoiSLCPcoquyenbieuquyetdangLH_1792048137004.pdf",
         "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/TGsBY8OmO5i4qFQgJijQ20261015140744/20261015HDBCBTTBCKQPHCPdetracotucvatangvonCPtuNVCSH_1792048127976.pdf",
-        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/7KTbEuMls5J0SbbgDJuE20261020104337/20261020HDBCBTTCVUBCKNNvetailieuBCKQPHCPdetracotucvatangVCP_1792467859129.pdf"
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/7KTbEuMls5J0SbbgDJuE20261020104337/20261020HDBCBTTCVUBCKNNvetailieuBCKQPHCPdetracotucvatangVCP_1792467859129.pdf",
+        "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/iU7alxk4oufV9AkV9JxB20261021110905/20261021HDBBCKQgiaodichCPcuaNNBDaoAnhMinh_1792555862844.pdf"
     ],
     "ACB": [
         "11031",
